@@ -4,7 +4,7 @@ Enter desciption here
 
 ### News
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Beta 2.0 will be out soon.
 
 ```markdown
 Syntax highlighted code block
